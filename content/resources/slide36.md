@@ -1,0 +1,13 @@
+---
+content_type: resource
+description: ''
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/0565c4fc4445b7e5b96502855a431781_Slide36.JPG
+file_type: image/jpeg
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+resourcetype: Image
+title: 1.1 slide 36
+uid: 0565c4fc-4445-b7e5-b965-02855a431781
+---
