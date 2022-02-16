@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: ca3d66e6-6d29-02d9-e372-6a8a8c156fcd
 ---
@@ -24,7 +27,7 @@ LECTURE NOTES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -76,7 +79,7 @@ Entrepreneurs are always "selling" their ideas to potential employees, customers
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -127,7 +130,7 @@ You have identified a market. Now the most important question "How Do You Make M
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -184,7 +187,7 @@ Armed with an understanding of the market for your products how do you figure ou
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -243,7 +246,7 @@ General questions and answers on legal issues for the entrepreneur—What you al
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}

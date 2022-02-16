@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3d071376-075b-43d9-9c14-867b6a999448
 ---
@@ -22,7 +24,7 @@ This Independent Activities Period (IAP) Course 15.S21 was formerly known as 15.
 Purpose of Course
 -----------------
 
-The nuts and bolts of preparing a Business Plan and Starting a New Venture Plan was explored in this 25th annual course offering. The course is open to members of the MIT Community and to others interested in entrepreneurship. It is particularly recommended for persons who are interested in starting or are involved in a new business or venture. Because some of the speakers are judges of the MIT $100K Entrepreneurship Competition, persons who are planning to enter the Competition should find the course particularly useful. In the past approximately 50% of the class has been from the Engineering / Science / Architecture Schools and 50% from the Sloan School of Management.
+The nuts and bolts of preparing a Business Plan and Starting a New Venture Plan was explored in this 25{{< sup "th" >}} annual course offering. The course is open to members of the MIT Community and to others interested in entrepreneurship. It is particularly recommended for persons who are interested in starting or are involved in a new business or venture. Because some of the speakers are judges of the MIT $100K Entrepreneurship Competition, persons who are planning to enter the Competition should find the course particularly useful. In the past approximately 50% of the class has been from the Engineering / Science / Architecture Schools and 50% from the Sloan School of Management.
 
 Grading and Course Credit
 -------------------------
@@ -53,7 +55,7 @@ KEY DATES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -76,7 +78,7 @@ _Introduction to Virtual Ink_
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Team Building
 {{< tdclose >}}
 
@@ -99,7 +101,7 @@ _Presenting Your Idea_
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -116,7 +118,7 @@ Bob Jones
 {{< tdopen >}}
 This session discusses issues and provided guidance on how to approach the marketing section of your business plan.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -141,7 +143,7 @@ This session discusses some common business models and when are they most approp
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -178,7 +180,7 @@ _Bank financing_
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -201,7 +203,7 @@ This portion of the program introduces some financial projection techniques base
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -225,7 +227,7 @@ John Harthorne
 {{< tdopen >}}
 The speaker along with a panel of entrepreneurs provides an overview of important questions to explore when embarking upon starting a company.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Executive Summaries Due
 {{< tdclose >}}
 
@@ -264,7 +266,7 @@ _General questions and answers on legal issues for the entrepreneur_
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -282,7 +284,7 @@ Victoria Bennet
 {{< tdopen >}}
 Interactive presentation
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 

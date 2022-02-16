@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 68847d16-d962-0f2b-7563-d82fad77467d
 title: Course History
 uid: 660f69dc-90f6-8ff4-4c2c-5cba6ae66746

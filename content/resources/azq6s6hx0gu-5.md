@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/8906cbf06b7f51f7828fc7833999a030_Azq6S6Hx0gU.vtt
+file: /media/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/8906cbf06b7f51f7828fc7833999a030_Azq6S6Hx0gU.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 8906cbf0-6b7f-51f7-828f-c7833999a030

@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/23fae8e60e9758f7ab93f2c82f84f38e_4.2._slide_79.jpg
+file: /media/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/23fae8e60e9758f7ab93f2c82f84f38e_4.2._slide_79.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: 4.2._slide_79.jpg
 uid: 23fae8e6-0e97-58f7-ab93-f2c82f84f38e

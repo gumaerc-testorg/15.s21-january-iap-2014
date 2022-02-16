@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 68847d16-d962-0f2b-7563-d82fad77467d
 ---
@@ -54,20 +56,6 @@ None
 ### Offered
 
 Every IAP
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![View of a lecture hall from the rear of the classroom. Chairs are affixed to the floor and are tiered. There are two aisles between three sections of seating. Blackboards at the front of the classroom. ]({{< resource_file 0f750e9c-6ad3-452f-5582-ac4f9df524fa >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Class sessions were held in a large lecture hall with tiered seating and A/V equipment.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

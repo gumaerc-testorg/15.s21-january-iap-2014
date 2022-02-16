@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information related to business plan financial
   projections.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/09b5bb7de6d9ca4db7e4b2924c484f20_MIT15_S21IAP14_Session3.2.pdf
+file: /media/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/09b5bb7de6d9ca4db7e4b2924c484f20_MIT15_S21IAP14_Session3.2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 3.2 Business Plan Financial Projections - 15.S21 Nuts and Bolts IAP
   2014
