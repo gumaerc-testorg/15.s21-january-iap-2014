@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Notes
@@ -16,6 +17,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 3, Part 2: Financial Projections'
 uid: 84adec40-7d3f-45bc-5258-9269951f3b07
 video_files:

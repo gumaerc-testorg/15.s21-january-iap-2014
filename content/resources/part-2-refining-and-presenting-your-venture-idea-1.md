@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Notes
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 1, Part 2: Refining and Presenting Your Venture Idea'
 uid: 2edf84fa-7e43-4b42-516e-65304c99bcc4
 video_files:
