@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Business Model Slides (PDF)](resources/mit15_s21iap14_session2-2)'
+optional_text: '[Business Model Slides (PDF)](/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/resources/mit15_s21iap14_session2-2)'
 parent_title: Video and Slide Player
 parent_type: CourseSection
 related_resources_text: ''
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 **Speaker:** Rich Kivel
+
+
+

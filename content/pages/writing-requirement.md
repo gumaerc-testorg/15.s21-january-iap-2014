@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section describes the writing requirement for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Writing Requirement

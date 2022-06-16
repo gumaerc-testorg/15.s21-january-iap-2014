@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Speakers:** Axel Bichara, Amir Nashat, and Julianne Zimmerman
+
+
+

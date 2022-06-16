@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the speaker and guest biographies.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

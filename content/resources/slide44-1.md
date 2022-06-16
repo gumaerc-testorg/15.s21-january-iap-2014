@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/dc130d9d6e77d7829e9174f67eebdc30_Slide44.JPG
+file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/dc130d9d6e77d7829e9174f67eebdc30_Slide44.JPG
 file_type: image/jpeg
 image_metadata:
   caption: ''

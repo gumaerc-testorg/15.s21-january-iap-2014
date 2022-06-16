@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[How to Make a Pitch (PDF)](resources/mit15_s21iap14_session1-2)'
+optional_text: '[How to Make a Pitch (PDF)](/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/resources/mit15_s21iap14_session1-2)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Speaker:** Stephen Pearse
+
+
+
