@@ -5,6 +5,7 @@ file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/8eca80c5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Financial Template - 15.S21 Nuts and Bolts IAP 2014
 uid: 8eca80c5-bf25-3454-a3a0-b1417c4c504d
 ---
 This resource contains information related to Financial Template.
-

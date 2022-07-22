@@ -5,6 +5,7 @@ file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/ed54344b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 1.2 How to Make a Pitch - 15.S21 Nuts and Bolts IAP 2014
 uid: ed54344b-909e-f3c2-65d6-e9def909fd46
 ---
 This resource contains information related to How to Make a Pitch.
-

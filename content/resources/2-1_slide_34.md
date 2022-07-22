@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: 2.1_slide_34.jpg
 uid: ecbe4fbf-9e32-229c-fe80-5124e8999448
 ---
 New image Upload
-

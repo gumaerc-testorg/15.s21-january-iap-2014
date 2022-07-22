@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/b3efba1c10e4bb6e2c55e5e9c429667c_b9Yyj3htBLE.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

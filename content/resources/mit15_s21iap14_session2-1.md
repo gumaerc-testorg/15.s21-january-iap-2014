@@ -5,6 +5,7 @@ file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/9e7d8905
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 2.1 Finding Your Customer - 15.S21 Nuts and Bolts IAP 2014
 uid: 9e7d8905-e77a-484d-d76b-ecea0bc19044
 ---
 This resource contains information related to Finding Your Customer.
-

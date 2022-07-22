@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Finding Your Customer (PDF)](/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/resources/mit15_s21iap14_session2-1)'
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 **Speaker:** Bob Jones
-
-
 

@@ -6,6 +6,7 @@ file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/6ca783b4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 1.1 Introduction to Business Plans - 15.S21 Nuts and Bolts IAP 20
 uid: 6ca783b4-0383-185b-0aa8-284d8da03dc9
 ---
 This resource contains information related to Introduction to Business Plans.
-
