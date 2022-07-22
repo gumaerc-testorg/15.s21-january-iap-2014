@@ -1,18 +1,22 @@
 ---
 content_type: page
+description: In this section, Joseph Hadzima shares his insights about inviting entrepreneurs,
+  some of whom have previously taken the course, to address current students.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 68847d16-d962-0f2b-7563-d82fad77467d
 title: Entrepreneurs in the Classroom
 uid: 985ac65b-cc68-4e19-91e3-f8c9b61ab09e
 ---
-
 _In this section, Joseph Hadzima shares his insights about inviting entrepreneurs, some of whom have previously taken the course, to address current students._
 
-“You’re in My Seat:" The Importance of Role Models
---------------------------------------------------
+## “You’re in My Seat:" The Importance of Role Models
 
-In _15.S21 Nuts and Bolts of New Ventures/Business Plans_ we bring to campus actual entrepreneurs who have started companies after taking the course.
+In _15.S21 Nuts and Bolts of Business Plans_ we bring to campus actual entrepreneurs who have started companies after taking the course.
 
 I remember that in the third or fourth year of the course, I invited an entrepreneur to talk to the class. To protect the innocent, I’ll call him John. John had taken the course and had then started a company. I said, “Just come back and talk about it.”
 
@@ -26,10 +30,9 @@ At that point, Jon walked up one of the aisles. He walked up 10 steps, stopped, 
 
 It wasn’t orchestrated. It was really an “aha moment” spotlighting the fact that to really succeed in these endeavors, you need some role models. These entrepreneurs don’t just come down from heaven and succeed. There are practicalities they need to learn from others.
 
-Learning from Failure
----------------------
+## Learning from Failure
 
-{{< quote "We encourage our guest entrepreneurs to talk about mistakes they have made in their ventures. " "— Joseph Hadzima" >}}
+{{< quote "We encourage our guest entrepreneurs to talk about mistakes they have made in their ventures.&nbsp;" "— Joseph Hadzima" >}}
 
 We talk about failure a lot in the class in an effort to portray realistic business experiences. We want to provide a balanced view of entrepreneurship, which in this era, tends to be portrayed as the new way of being a rock star. We don’t think of entrepreneurship as a fast track to fame; for us, entrepreneurship is a way of thinking. 
 

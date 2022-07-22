@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section describes the writing requirement for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Writing Requirement
 uid: a23d0f4a-042a-1057-52a6-11c2407732da
 ---

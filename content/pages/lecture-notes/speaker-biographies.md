@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page contains the speaker and guest biographies.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: ca3d66e6-6d29-02d9-e372-6a8a8c156fcd
 title: Speaker Biographies
 uid: c7ee5bb7-639f-f7e8-b518-da2c4546f236
