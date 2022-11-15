@@ -2,12 +2,12 @@
 content_type: page
 description: 'This section contains a side-by-side viewer for the lecture videos and
   slides. '
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Video and Slide Player
 uid: c26333e1-0b77-931a-4942-16b5acafb6ce
 ---
-
 The selected lecture videos in this section are presented with the corresponding slides in a side-by-side / dual window format. The {{% resource_link 7425dbab-24bd-40b9-d0c0-c704cab7eab2 "Lecture Videos" %}} page presents the videos in a standard window format (which may be preferable for smaller screens) with separately downloadable {{% resource_link ca3d66e6-6d29-02d9-e372-6a8a8c156fcd "Lecture Notes" %}}.
 
 The benefit of this pop-out player is that you are able view the videos while the slides advance automatically. You can also toggle back and forth using the "Previous page" and "Next page" links below the slide window.
