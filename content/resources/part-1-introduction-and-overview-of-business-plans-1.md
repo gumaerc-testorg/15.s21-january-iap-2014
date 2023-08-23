@@ -1,14 +1,8 @@
 ---
 content_type: resource
 description: ''
-draft: false
 end_time: ''
 file: null
-file_type: ''
-image_metadata:
-  caption: ''
-  credit: ''
-  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -20,7 +14,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Session 1, Part 1: Introduction and Overview of Business Plans Test'
+title: 'Session 1, Part 1: Introduction and Overview of Business Plans'
 uid: d9613dfa-7e05-6d7e-cdd5-711882c70819
 video_files:
   archive_url: https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S1P1_300k.mp4
@@ -30,4 +24,6 @@ video_files:
 video_metadata:
   youtube_id: ZcPNcoTbkIU
 ---
+
 **Speaker:** Joe Hadzima
+
