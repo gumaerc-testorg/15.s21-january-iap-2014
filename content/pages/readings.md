@@ -29,9 +29,9 @@ During this course, we will be referring to the Virtual Ink Business Plan as an 
 
 In preparation for the class skim through the *Virtual Ink Business Plan*. Focus on the Executive Summary and the Table of Contents. This is a real plan submitted in the MIT $50K Competition (now $100K) which resulted in a real business that received substantial funding:
 
-- [*Virtual Ink* Executive Summary (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk.pdf)
-- [*Virtual Ink* Plan: Company and Product Section (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk_CompanyProduct.pdf)
-- [*Virtual Ink* Plan: Market Section (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk_Market.pdf)
+- {{% resource_link "8e8ae02b-52fb-4da5-bb1f-248d4d35c0ae" "*Virtual Ink* Executive Summary (PDF)" %}}
+- {{% resource_link "63078323-1115-4033-927f-0fe4a9a7bf14" "*Virtual Ink* Plan: Company and Product Section (PDF)" %}}
+- {{% resource_link "a348ce76-da51-453b-a99f-4c78b1fdd348" "*Virtual Ink* Plan: Market Section (PDF)" %}}
 
 ### *Part 2: Refining and Presenting Your Venture Idea*
 
@@ -48,12 +48,12 @@ Entrepreneurs are always "selling" their ideas to potential employees, customers
 
 The 10–20–30 Rule for Presentations by Guy Kawasaki:
 
-- Video: heedeedee. "[Guy Kawasaki 10 20 30 Rule.](http://www.youtube.com/watch?v=-M13SObffog)" November 13, 2012. *YouTube*.
-- Blog: Guy Kawasaki. "[The 10/20/30 Rule of PowerPoint](http://guykawasaki.com/the_102030_rule/)." December 30, 2005. *Guy Kawasaki*.
+- Video: heedeedee. "{{% resource_link "870705f8-fd27-4d50-b93c-32b4748a5d08" "Guy Kawasaki 10 20 30 Rule." %}}" November 13, 2012. *YouTube*.
+- Blog: Guy Kawasaki. "{{% resource_link "80008fc6-c92c-436f-9a18-54026460b5ff" "The 10/20/30 Rule of PowerPoint" %}}." December 30, 2005. *Guy Kawasaki*.
 
-*PechaKucha* is a [presentation style](http://www.inc.com/magazine/201310/leigh-buchanan/pechakucha-a-peppy-brief-presentation-style.html) imported from Japan that emphasizes speed and graphics. Speakers display 20 slides and spend 20 seconds on each. Video: Sumeet Madhukar Mohge. "[A Pecha Kucha about Pecha Kucha](https://www.youtube.com/watch?v=jJ2yepIaAtE)." March 12, 2012. Youtube.
+*PechaKucha* is a {{% resource_link "dc18b8f8-bfff-49a3-8645-a97fb96b6791" "presentation style" %}} imported from Japan that emphasizes speed and graphics. Speakers display 20 slides and spend 20 seconds on each. Video: Sumeet Madhukar Mohge. "{{% resource_link "1371e6b5-aa4e-4ffc-a482-7e210af67b8a" "A Pecha Kucha about Pecha Kucha" %}}." March 12, 2012. Youtube.
 
-Leigh Buchanan. "[How to Add More Pep to Your Presentations](http://www.inc.com/magazine/201310/leigh-buchanan/pechakucha-a-peppy-brief-presentation-style.html)." *Inc. Magazine*.
+Leigh Buchanan. "{{% resource_link "dc18b8f8-bfff-49a3-8645-a97fb96b6791" "How to Add More Pep to Your Presentations" %}}." *Inc. Magazine*.
 
 ## Session 2
 
@@ -97,8 +97,8 @@ We recommend the following book as a useful framework for thinking about Busines
 
 For class please review the following:
 
-- [Business Model Generation Preview (PDF - 5.2MB)](http://nutsandbolts.mit.edu/2014/resources/businessmodelgeneration_preview.pdf)
-- [Business Model Canvas (PDF)](http://nutsandbolts.mit.edu/2014/resources/business_model_canvas_poster.pdf)
+- {{% resource_link "4718e712-82a1-4f4a-b349-d6ac49e1b16f" "Business Model Generation Preview (PDF - 5.2MB)" %}}
+- {{% resource_link "b56311c5-a2c8-4c5f-9dea-cfda4ecb406d" "Business Model Canvas (PDF)" %}}
 
 ## Session 3
 
@@ -120,20 +120,20 @@ This part of the program will feature a panel of experts representing different 
 
 #### Readings
 
-Joe Hadzima. ["A Beginner's Guide to Venture Capital" (PPT)](http://nutsandbolts.mit.edu/2014/resources/Beginners%20Guide%20to%20VC.ppt). How is a Venture Capital Fund structured? How are VCs compensated? What does this mean for you?
+Joe Hadzima. {{% resource_link "6e7721e3-5038-4df9-be70-cb0f06012fe8" "\"A Beginner's Guide to Venture Capital\" (PPT)" %}}. How is a Venture Capital Fund structured? How are VCs compensated? What does this mean for you?
 
-Joe Hadzima. [Venture Capital Deal Terms (PPT)](http://nutsandbolts.mit.edu/2014/resources/Venture%20Capital%20Deal%20Terms.ppt). *MIT Enterprise Forum*.
+Joe Hadzima. {{% resource_link "4ada9959-5455-473d-935f-dbce2f5717cf" "Venture Capital Deal Terms (PPT)" %}}. *MIT Enterprise Forum*.
 
 Articles from the Boston Business Journal "Starting Up" column:
 
-- Joe Hadzima. ["Thinking About Valuation."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5796) *MIT Enterprise Forum*.
-- Joe Hadzima. ["Dilution – Here Is A Primer of Stock Vocabulary."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5797) *MIT Enterprise Forum*.
-- Joe Hadzima. ["All Financing Sources Are Not Equal."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5803) *MIT Enterprise Forum*.
-- Joe Hadzima. ["What Are the Terms? – Part 1: A Preferred Return."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5804) *MIT Enterprise Forum*.
-- Joe Hadzima. ["What Are the Terms? – Part 2: Investors Need Some Control After Their Checks Are Cashed."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5805) *MIT Enterprise Forum*.
-- Joe Hadzima. ["What Are the Terms? – Part 3: Run Don't Walk To The Exit."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5806) *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "cdaf3fa8-c9fb-45b4-8aec-5f965c097629" "\"Thinking About Valuation.\"" %}} *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "4fb7c905-f02d-4068-b19f-0726f363246e" "\"Dilution – Here Is A Primer of Stock Vocabulary.\"" %}} *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "f98748f8-b96b-4c7a-b153-016f26be99f6" "\"All Financing Sources Are Not Equal.\"" %}} *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "e5c4e66b-49cf-4935-ae73-2a4c01da0110" "\"What Are the Terms? – Part 1: A Preferred Return.\"" %}} *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "58994c5c-e064-4078-aa7d-a7ff1e7849f0" "\"What Are the Terms? – Part 2: Investors Need Some Control After Their Checks Are Cashed.\"" %}} *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "c4ccead0-9d38-40f4-a3e0-1ecf82c4471f" "\"What Are the Terms? – Part 3: Run Don't Walk To The Exit.\"" %}} *MIT Enterprise Forum*.
 
-[Excerpts from: Venture Support Systems Project: Report on Angel Investors (PDF)](http://nutsandbolts.mit.edu/2014/resources/angelreportexcerpts.pdf), MIT Entrepreneurship Center, 2000. The full report is also available: [Full Angel Investor Report (PDF)](http://nutsandbolts.mit.edu/2014/resources/angelreport.pdf).
+{{% resource_link "7de92bd5-53ab-44dc-89fa-7a2a85eb2e76" "Excerpts from: Venture Support Systems Project: Report on Angel Investors (PDF)" %}}, MIT Entrepreneurship Center, 2000. The full report is also available: {{% resource_link "d392c3f2-f51e-4248-a789-a61a0e70b811" "Full Angel Investor Report (PDF)" %}}.
 
 ### *Part 2: Financial Projections*
 
@@ -157,7 +157,7 @@ Financial Statement in Body of *Virtual Ink* Plan.
 
 Detailed Financial Statements in Appendices of *Virtual Ink* Plan.
 
-Download a copy of the [Financial Template (XLS)](http://nutsandbolts.mit.edu/2014/resources/FinancialTemplate2013.xls) shown in the lecture.
+Download a copy of the {{% resource_link "80208409-6f26-41bb-8983-a5b6dee67eaa" "Financial Template (XLS)" %}} shown in the lecture.
 
 ## Session 4
 
@@ -179,7 +179,7 @@ In this session of Nuts and Bolts, Ken provides an overview of these important q
 
 #### Reading
 
-Noam Wasserman. "[The Founder's Dilemna](http://www.hbr.org/2008/02/the-founders-dilemma/ar/1)." February 2008. *Harvard Business Review*.
+Noam Wasserman. "{{% resource_link "c2afa849-bfa5-4342-8fbe-bb952f7b961c" "The Founder's Dilemna" %}}." February 2008. *Harvard Business Review*.
 
 ### *Part 2: Legal Issues*
 
@@ -195,15 +195,15 @@ General questions and answers on legal issues for the entrepreneur-What you alwa
 
 #### Readings
 
-Joe Hadzima. "[Considerations for Founders: Issues in Structuring Relationships Among Members of the Founding Team." (PDF)](http://nutsandbolts.mit.edu/2014/resources/FoundersMemo.pdf)
+Joe Hadzima. "{{% resource_link "c6ea0d53-6eac-44bb-8b45-80090614d497" "Considerations for Founders: Issues in Structuring Relationships Among Members of the Founding Team.\" (PDF)" %}}
 
 Articles from the Boston Business Journal "Starting Up" column:
 
-- Joe Hadzima. ["Steer Clear of the Tempest: A Start-Up Tragedy in Three Acts."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5801) *MIT Enterprise Forum*.
-- Joe Hadzima. ["Ten Commandments Of How To Work Effectively With Lawyers."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5820) *MIT Enterprise Forum*.
-- Joe Hadzima. ["Questions of Copyright: Another Weapon in Property Arsenal."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5821) *MIT Enterprise Forum*.
-- Joe Hadzima. ["Of Kleenex and Cheez Whiz: Trademarks Are Nothing To Sneeze At."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5823) *MIT Enterprise Forum*.
-- Joe Hadzima. ["The Importance of Patents: It Pays To Know Patent Regulations."](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5822) *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "3b312e91-58cd-477f-9084-2de5ea8e5548" "\"Steer Clear of the Tempest: A Start-Up Tragedy in Three Acts.\"" %}} *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "cfc58b7a-be12-43a2-9232-82ff03c9d167" "\"Ten Commandments Of How To Work Effectively With Lawyers.\"" %}} *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "c9fb82bb-76e9-45f1-bb0e-e8c8d5997793" "\"Questions of Copyright: Another Weapon in Property Arsenal.\"" %}} *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "f0e0a557-944c-4140-9701-9340483581de" "\"Of Kleenex and Cheez Whiz: Trademarks Are Nothing To Sneeze At.\"" %}} *MIT Enterprise Forum*.
+- Joe Hadzima. {{% resource_link "245e9b24-5b40-4951-afaa-8dc50cebcd37" "\"The Importance of Patents: It Pays To Know Patent Regulations.\"" %}} *MIT Enterprise Forum*.
 
 ## Session 5
 
