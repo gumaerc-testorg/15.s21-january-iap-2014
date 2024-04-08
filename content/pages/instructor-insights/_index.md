@@ -13,7 +13,7 @@ uid: 68847d16-d962-0f2b-7563-d82fad77467d
 
 This page focuses on the course _15.S21 Nuts and Bolts of Business Plans_ as it was taught by Joseph Hadzima and Joost Bonsen in IAP 2014.
 
-This course explores the nuts and bolts of preparing a business plan and starting a new venture, and is open to members of the MIT community and to others interested in entrepreneurship. It is particularly recommended for persons who are interested in starting or are involved in a new business or venture. Because some of the speakers are judges of the [MIT $100K Entrepreneurship Competition](http://www.mit100k.org/#overview), persons who are planning to enter the competition should find the course particularly useful.
+This course explores the nuts and bolts of preparing a business plan and starting a new venture, and is open to members of the MIT community and to others interested in entrepreneurship. It is particularly recommended for persons who are interested in starting or are involved in a new business or venture. Because some of the speakers are judges of the {{% resource_link "43ee2f54-1ffd-471c-ae30-fe84e5ece895" "MIT $100K Entrepreneurship Competition" %}}, persons who are planning to enter the competition should find the course particularly useful.
 
 January 2014 was the twenty-fifth anniversary of this course.
 
@@ -73,7 +73,7 @@ This is a graduate-level course.
 
 ### Breakdown by Major
 
-Typically, students from the Schools of [Engineering](http://engineering.mit.edu/), [Science](http://science.mit.edu/), [Architecture and Planning](https://sap.mit.edu/) comprise 50% of the class, while students from the [Sloan School of Management](http://mitsloan.mit.edu/) make up the remaining 50%.
+Typically, students from the Schools of {{% resource_link "f23a0281-e7c5-4c13-bb6c-e105bc2d1200" "Engineering" %}}, {{% resource_link "99a3d393-6323-43c5-911d-fe0ce0abd386" "Science" %}}, {{% resource_link "0c8e2696-60f8-4580-b161-f15143662a83" "Architecture and Planning" %}} comprise 50% of the class, while students from the {{% resource_link "fa033c73-a8d0-4fc9-9c93-d788d4155ca5" "Sloan School of Management" %}} make up the remaining 50%.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
