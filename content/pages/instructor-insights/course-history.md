@@ -42,7 +42,7 @@ Luckily, we ended up filling a very large classroom, with some participants sitt
 
 ## Emphasizing Business Plans
 
-The {{% resource_link "43ee2f54-1ffd-471c-ae30-fe84e5ece895" "MIT $100K Entrepreneurship Competition" %}} was originally a $10K competition. In the second year of the competition, the team that won was the only team that mentioned the word customer anywhere in its plan. That’s how basic we were back then. We recognized, early on, that we needed to provide competitors with some guidance about writing business plans, because most of the original plans read like grant proposals.
+The {{% resource_link "5e80f478-4fdf-4507-909a-c3b0fe39c919" "MIT $100K Entrepreneurship Competition" %}} was originally a $10K competition. In the second year of the competition, the team that won was the only team that mentioned the word customer anywhere in its plan. That’s how basic we were back then. We recognized, early on, that we needed to provide competitors with some guidance about writing business plans, because most of the original plans read like grant proposals.
 
 At that time, there really weren’t any courses that could prepare people to enter the competition. The MIT Enterprise Forum offered a weeklong session on starting companies, but there was nothing that talked specifically about business plans. Executive summaries for the competition were due the first week in February, so our course, offered during January, filled this gap.
 
