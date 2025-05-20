@@ -12,7 +12,7 @@ Writing Requirement
 
 There is a writing requirement which must be met in order to receive credit for this course. You have two choices: (1) write a 2 to 3 page Executive Summary for a new venture you are developing, or (2) prepare a Pitch Deck presentation (10 slides max) for your new venture. **Team Efforts Are Encouraged**.
 
-Persons who are planning to enter the {{% resource_link "36038e14-01e9-4061-9e5a-4ff45d7fbb41" "MIT $100K Entrepreneurship Competition" %}} might want to use this opportunity to draft an Executive Summary or Pitch Deck for his or her new venture.
+Persons who are planning to enter the {{% resource_link "2ce74a32-e156-45a4-ab91-4b668ec3ae5f" "MIT $100K Entrepreneurship Competition" %}} might want to use this opportunity to draft an Executive Summary or Pitch Deck for his or her new venture.
 
 Executive Summaries and Pitch Decks will be evaluated on the following criteria, among others:
 

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to Business Model.
 file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/dab4a349c072c4d9bbc7158a5c0be788_MIT15_S21IAP14_Session2.2.pdf
+file_size: 1027258
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
