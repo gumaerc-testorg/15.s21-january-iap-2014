@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to Introduction to Business
   Plans.
 file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/6ca783b40383185b0aa8284d8da03dc9_MIT15_S21IAP14_Session1.1.pdf
+file_size: 782454
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
