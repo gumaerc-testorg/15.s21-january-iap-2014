@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/b3be5fbeadb0083a0d35a42161b0b2ca_4.2._slide_27.jpg
+file_size: 82699
 file_type: image/jpeg
 image_metadata:
   caption: ''

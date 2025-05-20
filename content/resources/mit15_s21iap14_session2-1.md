@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to Finding Your Customer.
 file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/9e7d8905e77a484dd76becea0bc19044_MIT15_S21IAP14_Session2.1.pdf
+file_size: 1132069
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
