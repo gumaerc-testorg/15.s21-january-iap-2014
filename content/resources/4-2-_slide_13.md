@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/a0c334579ded604f7d74788b4836cb37_4.2._slide_13.jpg
+file: /ol-ocw-studio-app/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/a0c334579ded604f7d74788b4836cb37_4.2._slide_13.jpg
 file_size: 96454
 file_type: image/jpeg
 image_metadata:

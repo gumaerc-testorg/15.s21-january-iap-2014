@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Financial Template.
-file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/1e0171857c46bc5e15c518d7e60bd9c6_MIT15_S21IAP14_FnclTemp13.xls
+file: /ol-ocw-studio-app/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/1e0171857c46bc5e15c518d7e60bd9c6_MIT15_S21IAP14_FnclTemp13.xls
 file_size: 140288
 file_type: application/vnd.ms-excel
 learning_resource_types:
