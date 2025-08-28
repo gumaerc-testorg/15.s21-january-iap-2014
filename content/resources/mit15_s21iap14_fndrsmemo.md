@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Founders Memo.
-file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/1e6bb65bd5f2d49b36b3739495f00ce8_MIT15_S21IAP14_FndrsMemo.pdf
+file: /ol-ocw-studio-app/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/1e6bb65bd5f2d49b36b3739495f00ce8_MIT15_S21IAP14_FndrsMemo.pdf
 file_size: 129820
 file_type: application/pdf
 learning_resource_types: []
