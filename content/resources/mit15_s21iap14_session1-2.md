@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to How to Make a Pitch.
-file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/ed54344b909ef3c265d6e9def909fd46_MIT15_S21IAP14_Session1.2.pdf
+file: /ol-ocw-studio-app/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/ed54344b909ef3c265d6e9def909fd46_MIT15_S21IAP14_Session1.2.pdf
 file_size: 1274564
 file_type: application/pdf
 learning_resource_types:

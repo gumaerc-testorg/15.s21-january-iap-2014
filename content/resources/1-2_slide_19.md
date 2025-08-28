@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/f3c51b17eb439b9f9acd7cd4e02a1620_1.2_slide_19.jpg
+file: /ol-ocw-studio-app/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/f3c51b17eb439b9f9acd7cd4e02a1620_1.2_slide_19.jpg
 file_size: 200549
 file_type: image/jpeg
 image_metadata:
