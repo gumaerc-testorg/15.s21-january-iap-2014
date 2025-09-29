@@ -6,6 +6,6 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: unchecked
 title: '"All Financing Sources Are Not Equal."'
 uid: f6802b5f-8116-424a-aac4-789aa423f9d8
-url_status_code: 403
+url_status_code: 429
 wayback_url: ''
 ---

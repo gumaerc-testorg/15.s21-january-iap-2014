@@ -6,6 +6,6 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: unchecked
 title: '"WHIPLASH - (The Pitfalls of Acceleration)"'
 uid: a6f1014e-d512-4a27-8d45-01eada91d268
-url_status_code: 403
+url_status_code: 429
 wayback_url: ''
 ---

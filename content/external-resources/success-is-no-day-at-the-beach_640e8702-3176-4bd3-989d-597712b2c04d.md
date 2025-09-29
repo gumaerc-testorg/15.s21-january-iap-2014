@@ -6,6 +6,6 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: unchecked
 title: '"Success Is No Day At The Beach"'
 uid: 640e8702-3176-4bd3-989d-597712b2c04d
-url_status_code: 403
+url_status_code: 429
 wayback_url: ''
 ---

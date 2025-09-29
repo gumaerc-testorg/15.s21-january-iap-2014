@@ -6,6 +6,6 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: unchecked
 title: '"Steer Clear of the Tempest: A Start-Up Tragedy in Three Acts."'
 uid: 253085c0-b010-448a-9866-e6c51ea6973a
-url_status_code: 403
+url_status_code: 429
 wayback_url: ''
 ---

@@ -6,6 +6,6 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: unchecked
 title: '"Pinpointing That Critical Entrepreneural Spark"'
 uid: 48206ef4-ec74-46ec-8212-7e91b3e10cdb
-url_status_code: 403
+url_status_code: 429
 wayback_url: ''
 ---
